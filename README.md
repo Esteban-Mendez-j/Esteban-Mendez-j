@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Esteban Méndez
 
-🎓 Estudiante de 5° semestre de Tecnología en Desarrollo de Software  
+🎓 Estudiante de 6° semestre de Tecnología en Desarrollo de Software  
 💻 Actualmente trabajando con **Java + Spring Boot**, **Astro**, **HTML/CSS/JS**, **MySQL** y **MongoDB**  
 🌐 Interesado en el desarrollo de aplicaciones web modernas, APIs REST y sistemas en tiempo real
 
